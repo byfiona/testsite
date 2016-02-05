@@ -1,0 +1,45 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="byfiona.ca" resolutions="1x" timestamp="1454692813449">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="218327106" ref="index"/>
+    <file name="ux-design.css" crc="112180619" ref="ux-design"/>
+    <file name="contact.css" crc="112180619" ref="contact"/>
+    <file name="branding.css" crc="112180619" ref="branding"/>
+    <file name="about.css" crc="112180619" ref="about"/>
+    <file name="calligraphy.css" crc="112180619" ref="calligraphy"/>
+    <file name="portfolio.css" crc="112180619" ref="portfolio"/>
+    <file name="index.css" crc="392189451" ref="index"/>
+    <file name="graphic-design.css" crc="112180619" ref="graphic-design"/>
+    <file name="blog.css" crc="112180619" ref="blog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:portfolio:calligraphy:graphic-design:branding:ux-design:blog:contact:about"/>
+    <file name="museutils.js" crc="183364071" ref="index:portfolio:calligraphy:graphic-design:branding:ux-design:blog:contact:about"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:portfolio:calligraphy:graphic-design:branding:ux-design:blog:contact:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:calligraphy:graphic-design:branding:ux-design:blog:contact:about"/>
+  </folder>
+  <folder name="images">
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u75-4.png" crc="3858547894" ref="index"/>
+    <file name="u194-4.png" crc="422762861" ref="index"/>
+    <file name="u240-4.png" crc="290885393" ref="index"/>
+    <file name="u199-4.png" crc="8672762" ref="index"/>
+    <file name="u216-4.png" crc="198512484" ref="index"/>
+    <file name="u226-4.png" crc="4273502387" ref="index"/>
+    <file name="pattern 1-01.jpg" crc="144082288" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="234956419" seo="true" mt="1454017739982" redirect="true"/>
+  <file name="portfolio.html" crc="3796279944" seo="true" mt="1453914551163" redirect="false"/>
+  <file name="calligraphy.html" crc="3869539072" seo="true" mt="1453914555872" redirect="false"/>
+  <file name="graphic-design.html" crc="3973747634" seo="true" mt="1453914566809" redirect="false"/>
+  <file name="branding.html" crc="105545515" seo="true" mt="1453914623253" redirect="false"/>
+  <file name="ux-design.html" crc="3979177657" seo="true" mt="1453914723690" redirect="false"/>
+  <file name="blog.html" crc="181863162" seo="true" mt="1454017514283" redirect="false"/>
+  <file name="contact.html" crc="447805049" seo="true" mt="1454017526888" redirect="false"/>
+  <file name="about.html" crc="152373614" seo="true" mt="1454017533563" redirect="false"/>
+</manifest>
